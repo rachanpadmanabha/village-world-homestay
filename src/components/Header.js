@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Menu, Sun, Moon, ChevronDown } from 'lucide-react';
+import { Menu, Sun, Moon } from 'lucide-react';
 import { scrollToId } from '../utils';
 
 function NavItem({ to, children }) {

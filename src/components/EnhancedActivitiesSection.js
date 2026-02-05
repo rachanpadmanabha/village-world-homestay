@@ -1,6 +1,6 @@
 import React from 'react';
 import { motion } from 'framer-motion';
-import { Compass, MapPin, Clock, Camera, Utensils, Mountain, Waves, TreePine, Store, Footprints } from 'lucide-react';
+import { Compass, MapPin, Clock, Camera, Utensils, Mountain, Waves, TreePine, Store } from 'lucide-react';
 import { ACTIVITIES } from '../data';
 
 export default function EnhancedActivitiesSection() {
