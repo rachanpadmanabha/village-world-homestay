@@ -2,6 +2,7 @@
   "name": "village-world-homestay",
   "version": "1.0.0",
   "description": "A luxury homestay website for Village World Homestay",
+  "homepage": "https://rachanpadmanabha.github.io/village-world-homestay",
   "private": true,
   "dependencies": {
     "@react-three/fiber": "^8.14.5",
